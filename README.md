@@ -14,3 +14,9 @@ A simple C project to manage contact information using file handling.
 gcc main.c address_book.c -o address_book
 ./address_book
 
+## 📸 Screenshots
+
+### Menu
+[Menu Screenshot](images/menu.png)
+
+
