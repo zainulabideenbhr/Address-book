@@ -17,6 +17,7 @@ gcc main.c address_book.c -o address_book
 ## 📸 Screenshots
 
 ### Menu
-[Menu Screenshot](images/menu.png)
+![Menu Screenshot](images/menu.png)
+
 
 
